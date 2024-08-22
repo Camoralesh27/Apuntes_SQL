@@ -1,4 +1,12 @@
 # SQL
+Para acceder a MySQL desde la terminal.
+```
+mysql -u root -p
+```
+Recuerda que para que funcione tienes que haber modificado el path de las variables del sistema.
+
+*NOTA: La contraseña la elegiste al instalar MySQL. root*  
+
 **¿Qué es CRUD?**
 * Create
 * Read
